@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+
+.admin_wrapper {
+  height: 100%;
+  
+  @media (min-width: 768px) {
+    width: 52rem;
+  }
+}
+
+mat-form-field {
+    margin: 10px;
+}

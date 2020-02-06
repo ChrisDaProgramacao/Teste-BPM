@@ -1,0 +1,10 @@
+<mat-toolbar>
+  <mat-toolbar-row>
+    <mat-label>Usuário</mat-label>
+    <mat-select matNativeControl>
+      <mat-option [routerLink]="['/pedido']" value="solicitante">: Solicitante</mat-option>
+      <mat-option [routerLink]="['/aprovacao']" value="aprovador">: Aprovador</mat-option>
+      <mat-option [routerLink]="['/admin']" value="administrador">: Administrador</mat-option>
+    </mat-select>
+  </mat-toolbar-row>
+</mat-toolbar>
