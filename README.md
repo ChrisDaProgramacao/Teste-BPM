@@ -9,7 +9,6 @@ Em alguns casos, é necessário executar  npm install --save @angular-devkit/bui
 
 ## Back
 Executar a aplicação Java (ProvaApplication), irá rodar na porta 8080.
-Utilizado banco local h2, tive problemas com o MySQL em minha máquina.
 
 ## Exercício
 
