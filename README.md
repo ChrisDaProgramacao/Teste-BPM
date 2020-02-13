@@ -14,7 +14,7 @@ Em alguns casos, é necessário executar  `npm install --save @angular-devkit/bu
 
 ## Back End
 
-O Back End da aplicação foi feito em Java 8, utilizando o Framework [Spring] (https://spring.io/) em Maven. O banco de dados utilizado foi o H2, um banco de dados em memória para um melhor desempenho neste desafio, não necessitando prévia configuração de uma base de dados para executá-lo.
+O Back End da aplicação foi feito em Java 8, utilizando o Framework [Spring](https://spring.io/) em Maven. O banco de dados utilizado foi o H2, um banco de dados em memória para um melhor desempenho neste desafio, não necessitando prévia configuração de uma base de dados para executá-lo.
 
 ## Execução Back End
 
