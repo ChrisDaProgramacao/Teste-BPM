@@ -12,11 +12,14 @@ Para executar o server do Angular, deve-se navegar para a pasta onde se encontra
 Executar `ng serve` no terminal. Navegar para `http://localhost:4200/`.
 Em alguns casos, é necessário executar  `npm install --save @angular-devkit/build-angular`
 
+## Back End
+
+O Back End da aplicação foi feito em Java 8, utilizando o Framework [Spring] (https://spring.io/) em Maven. O banco de dados utilizado foi o H2, um banco de dados em memória para um melhor desempenho neste desafio, não necessitando prévia configuração de uma base de dados para executá-lo.
+
 ## Execução Back End
 
 Para executar o Back-End em ambiente de desenvolvimento, deve abrir o projeto localizado na pasta: `backend`. No meu caso, utilizei o [eclipse](https://www.eclipse.org/) para abrir o projeto.
 Para iniciar o servidor, deve-se executar a classe ProvaApplication.java como uma aplicação java, o servidor irá executar na porta 8080.
-O banco de dados utilizado foi o H2, um banco de dados em memória para um melhor desempenho neste desafio, não necessitando prévia configuração de uma base de dados para executá-lo.
 
 ## Execução da aplicação
 
